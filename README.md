@@ -76,4 +76,4 @@ Unity C# 기반 게임 클라이언트 프로그래머 포트폴리오로,
 ## 🎬 유튜브 시연 영상
 
 - [『필연과 우연』](https://youtu.be/kjaH9fDRmMo) — 멀티엔딩 방탈출 어드벤처 게임
-- [『네 발자국』](https://youtu.be/gbgzfBneAVo) — 반려동물 유기를 주제로 한 2D 내러티브 어드벤처
+- [『네 발자국』](https://youtu.be/013OU2ZJlbk) — 반려동물 유기를 주제로 한 2D 내러티브 어드벤처
